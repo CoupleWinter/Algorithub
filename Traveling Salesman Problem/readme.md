@@ -1,1 +1,11 @@
-## Traveling Salesman Problem
+### 遗传算法
+
+* 遗传算法是模仿自然界生物进化机制发展起来的随机全局搜索和优化方法，它借鉴了达尔文的进化论和孟德尔的遗传学说
+* 遗传算法步骤：
+    * 初始化
+    * 评估
+    * 选择
+    * 交叉
+    * 变异
+    
+### [代码来源](https://chaolongzhang.github.io/2015/genetic-algorithm-on-tsp/ '代码来源博客，鸣谢')
